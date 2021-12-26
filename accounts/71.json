@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "psyched-myth-332219",
+  "private_key_id": "79f55594f180fd6e57c6f379f7dc43214aab446d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDYazT3qyxJRwuL\n6mv/jNtfE1XYnz/P76GrXTPav6DujJXKzou+wr763IO+XOR5YyuYjF1nx/ajUR8e\na/ulOrm53A4he4MN5cMojSbvS7n7OYYmMubSPeyDEWKiUej75aBnsuNgIGyEVo39\ngo7T0lax7eL1N9s7Ctedqfy6/cMbvaUimr6Obrn28kP6BPtg0EO0J6tABSJQrolw\nfSoluQJVBTtngAHh5XiiB9Uqf3QYe8OH/2cIjYwqYb8gtxo1wI87pvXbVRZEC2zT\nIOyB3KcDP+LZuPFMD8X0iY8LP1pMxs/MoEN7Tygw5to0qumMrHlUL947trbj5/17\n/FstCE9xAgMBAAECggEAAJejhpmC9qThgtWmi8WjjJIxmhUOgEfSQBUyWQMNAlYj\na1GPJ5uiGO7tU+IudGgZdJKOx2PQWKBWVteaEdjULQ5tgfkz8b/rHbNsM7u387hz\ntetN/y2Q9gdgRxw1CGp3ms0OKwNPtLmFbDgVIr6IwvYpGL15RcM49ZsjYFIlPHBS\nR1QOjvbYqH8yu47xkc9QWJCucBmNlJYxyS6uJ1/y1s0uhagR3zHwTUYKW3egfa8O\nOddJ2HtvA+h5of8YZmR2jDZ08fyJZFDc7Wq5Wuo/gBOBxwF/lAU90LBrEVG6Q/GU\nF/t3vvKj2EcE4S3SFpSfIsBTycM/89Bypc3luouGOQKBgQDwo3Qay1kVl4L7GksV\nZuXW0MD1sgmlCF7lT004z2Db90PtAEua8fApmI4LTW9pHYVAPut2jRiin8rrnHZm\nXgxQyLhIel5PrI+ugjZrOMnQA1j1cH743uQN2jn8ZncqxA3tzFdggf86FHYqx+wo\n4TNDHG8KxCOB73dgC0Zv7OsBKQKBgQDmO/OZ64nIRqoBryEB+suydRzZMIPiaaLH\nF8fQbv7TDftb1duyvCL7mdiCUK/Emus5ZfUqyejfxuawl19bMljPxSrAA1TJTLpe\n1La9B0ayJNHoOCFo991Hz8OzIT0X62uVYcfCF0Rzq4fUyLDQJyj7K9p1gHDTdWKT\ncm4n/Nq9CQKBgQCjckJQWMJfehPLPqa1GLkQWaZWu+D1KWRbWKvY5HKjtaV7evHf\ngmlft3DzmFsOCLETXClO0rNi8ipAMnvxN/whetRA1mzsrQbCv0r7NQ1Orpdjzk9P\n9wTrq8gq+eYDNDtJw7utn16eMnu4vyZW9e99q/h4VZTQkriAkef76e4NUQKBgDuH\nSsAEb5aR9skCsAUkBGD6+N+LNL5o08aodmiFGmwVlGU1UV3QWTc2mw1usVOjPqiT\nnSVYGVcqxWDpcqVQyjfGYfxNoDGAHjwAwdL0O6o57PAe+zx5wgQcSxxYvsQdga6Z\nHp4nh/JkanVxAo5/YZA30X9KG2IBWuCG2MaMET6JAoGATC31KAjGQVSYMJk3Xywu\n+h5tRAEGOSj2hUZVsmyBskUr1Bc7ZHG+LxOBoKJzIxsOMp0FQ3xiRcPmIElDxVin\n6Msx/N9afIPf1oUWOalNmnIsy91SOGxl3jUx5dPAYkdvd69lxmFHj6i0jNIjwzc1\nHJyKyFgYdZ9SGNhncOcFJ8M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-kmawa-cqbasosl08xfw1bw6lfk@psyched-myth-332219.iam.gserviceaccount.com",
+  "client_id": "106881643054820048065",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-kmawa-cqbasosl08xfw1bw6lfk%40psyched-myth-332219.iam.gserviceaccount.com"
+}
